@@ -52,84 +52,112 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: Animal
+//  action 1: the animal drinks
+animal.drink();
 
-//  action 2:
-
-//  action 3:
-
+//  action 2: the animal eats
+animal.eat();
+//  action 3: the animal replicates
+animal.replicate();
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: Car
+//  action 1: the car speeds up
+car.accelerate();
 
-//  action 2:
+//  action 2: the car slows down
+car.decelerate();
 
-//  action 3:
+//  action 3: the car drifts 
+car.drift();
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: Musician
+//  action 1: musician sings a song
+musician.sing();
 
-//  action 2:
+//  action 2: musician performs for a crowd
+musician.perform();
 
-//  action 3:
+//  action 3: musician vibes with other artists
+musician.vibe();
 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: Instrument
+//  action 1: instrument resonates
+instrument.resonate();
 
-//  action 2:
+//  action 2: instrument makes noise
+instrument.makeNoise();
 
-//  action 3:
+//  action 3: instrument ages with beauty
+instrument.ageWithBeauty();
 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: Student
+//  action 1: student parties
+student.party();
 
-//  action 2:
+//  action 2: student parties hard
+student.partyHard();
 
-//  action 3:
+//  action 3: student parties super hard
+student.partySuperHard();
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: Business
+//  action 1: business exploits natural resources
+business.exploitNaturalResources();
 
-//  action 2:
+//  action 2: business helps local community
+business.helpCommunity();
 
-//  action 3:
+//  action 3: busyiness generates a net loss for tax purposes
+business.generateNetLossForTaxPurposes();
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: University
+//  action 1: university covers up a scandal
+university.coverUpScandal();
 
-//  action 2:
+//  action 2: university accepts bribe from big pharma
+university.acceptBribeFromBigPharma();
 
-//  action 3:
+//  action 3: university honors the corporate elite under guise of philanthropy
+university.honorCorporateEliteUnderGuiseOfPhilanthropy();
 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: Food
+//  action 1: the food looks hot. nice and hot.
+food.lookHot();
 
-//  action 2:
+//  action 2: the food looks steamy
+food.lookSteamy();
 
-//  action 3:
+//  action 3: the food rots
+food.rot();
 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: Computer
+//  action 1: the computer computes
+computer.compute();
 
-//  action 2:
+//  action 2: the computer updates
+computer.update();
 
-//  action 3:
+//  action 3: the computer uninstalls a program
+computer.uninstallProgram();
 
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: SmartHome
+//  action 1: the smart home adjusts the lighting 
+smartHome.adjustLighting();
 
-//  action 2:
+//  action 2: the smart home adjusts the temperature
+smartHome.setTemperature();
 
-//  action 3:
+//  action 3: the smart home emails your security footage to jeff bezos
+smartHome.emailSecurityFootage();
 
 
 
