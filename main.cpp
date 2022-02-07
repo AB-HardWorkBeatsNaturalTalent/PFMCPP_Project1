@@ -54,12 +54,12 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  1)
 //  Noun: Animal
 //  action 1: the animal drinks
-a.drink();
+animal.drink();
 
 //  action 2: the animal eats
-a.eat();
+animal.eat();
 //  action 3: the animal replicates
-a.replicate();
+animal.replicate();
 //  2)
 //  Noun: Automobile
 //  action 1: the car speeds up
@@ -74,57 +74,57 @@ car.drift();
 //  3)
 //  Noun: Musician
 //  action 1: musician sings a song
-m.sing();
+musician.sing();
 
 //  action 2: musician performs for a crowd
-m.perform();
+musician.perform();
 
 //  action 3: musician vibes with other artists
-m.vibe();
+musician.vibe();
 
 //  4)
 //  Noun: Instrument
 //  action 1: instrument resonates
-i.resonate();
+instrument.resonate();
 
 //  action 2: instrument makes noise
-i.makeNoise();
+instrument.makeNoise();
 
 //  action 3: instrument ages with beauty
-i.ageWithBeauty();
+instrument.ageWithBeauty();
 
 //  5)
 //  Noun: Student
 //  action 1: student parties
-s.party();
+student.party();
 
 //  action 2: student parties hard
-s.partyHard();
+student.partyHard();
 
 //  action 3: student parties super hard
-s.partySuperHard();
+student.partySuperHard();
 
 //  6)
 //  Noun: Business
 //  action 1: business exploits natural resources
-b.exploitNaturalResources();
+business.exploitNaturalResources();
 
 //  action 2: business helps local community
-b.helpCommunity();
+business.helpCommunity();
 
 //  action 3: busyiness generates a net loss for tax purposes
-b.generateNetLossForTaxPurposes();
+business.generateNetLossForTaxPurposes();
 
 //  7)
 //  Noun: University
 //  action 1: university covers up a scandal
-u.coverUpScandal();
+university.coverUpScandal();
 
 //  action 2: university accepts bribe from big pharma
-u.acceptBribeFromBigPharma();
+university.acceptBribeFromBigPharma();
 
 //  action 3: university honors the corporate elite under guise of philanthropy
-u.honorCorporateEliteUnderGuiseOfPhilanthropy();
+university.honorCorporateEliteUnderGuiseOfPhilanthropy();
 
 //  8)
 //  Noun: Food
