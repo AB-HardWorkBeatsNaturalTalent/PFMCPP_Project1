@@ -129,35 +129,35 @@ university.honorCorporateEliteUnderGuiseOfPhilanthropy();
 //  8)
 //  Noun: Food
 //  action 1: the food looks hot. nice and hot.
-carrot.lookHot();
+food.lookHot();
 
 //  action 2: the food looks steamy
-carrot.lookSteamy();
+food.lookSteamy();
 
 //  action 3: the food rots
-carrot.rot();
+food.rot();
 
 //  9)
 //  Noun: Computer
 //  action 1: the computer computes
-apple.compute();
+computer.compute();
 
 //  action 2: the computer updates
-apple.update();
+computer.update();
 
 //  action 3: the computer uninstalls a program
-apple.uninstallProgram();
+computer.uninstallProgram();
 
 //  10)
 //  Noun: SmartHome
 //  action 1: the smart home adjusts the lighting 
-nest.adjustLighting();
+smartHome.adjustLighting();
 
 //  action 2: the smart home adjusts the temperature
-nest.setTemperature();
+smartHome.setTemperature();
 
 //  action 3: the smart home emails your security footage to jeff bezos
-nest.emailSecurityFootage();
+smartHome.emailSecurityFootage();
 
 
 
