@@ -61,7 +61,7 @@ animal.eat();
 //  action 3: the animal replicates
 animal.replicate();
 //  2)
-//  Noun: Automobile
+//  Noun: Car
 //  action 1: the car speeds up
 car.accelerate();
 
